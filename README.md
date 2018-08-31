@@ -1,4 +1,4 @@
-# intralacos-producao
+# Intralacos API
 
 Informações do Projeto:    
 [![build](https://travis-ci.org/Lacos-da-Alegria/intralacos-producao.svg?branch=master)](https://travis-ci.org/Lacos-da-Alegria/intralacos-producao/builds/) 
